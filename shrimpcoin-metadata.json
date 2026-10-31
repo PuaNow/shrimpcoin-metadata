@@ -1,0 +1,25 @@
+{
+  "name": "ShrimpCoin",
+  "symbol": "SHRMPCOIN",
+  "description": "ShrimpCoin (SHRMPCOIN) supports NorCal Premier Prawn \u2014 local, sustainable Pacific whiteleg shrimp raised in recirculating aquaculture (RAS) in Mendocino County, California. Built for farm performance, community jobs, and transparent production.",
+  "image": "https://raw.githubusercontent.com/PuaNow/shrimpcoin-metadata/main/shrimpcoin-logo.png",
+  "external_url": "https://solscan.io/token/mntsByXQ5QyqMkknKzX1w4CEmErG3RjQbB4zuC6cwKP",
+  "properties": {
+    "category": "fungible",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/PuaNow/shrimpcoin-metadata/main/shrimpcoin-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "bosVqs1t59kXpyuwLFYZ1qf61qWygXEaZYSLGjf1TF4",
+        "share": 100
+      }
+    ]
+  },
+  "extensions": {
+    "description": "Local sustainable whiteleg shrimp \u00b7 Mendocino County \u00b7 RAS aquaculture"
+  }
+}
